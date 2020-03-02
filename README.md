@@ -1,2 +1,3 @@
 # hazelwebsite
-Klases uzdevumam
+Mājaslapa klases uzdevumam.
+Izmantots lightbox, @media
